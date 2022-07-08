@@ -3,13 +3,13 @@ version: "0.1.1"
 synopsis:
   "Component used by the dkml-package-console Console Packager"
 description:
-  "Executables for launching console based installers"
+  "Executables needed to launch console based installers"
 maintainer: ["opensource+diskuv-ocaml@support.diskuv.com"]
 authors: ["Diskuv, Inc. <opensource+diskuv-ocaml@support.diskuv.com>"]
 license: "Apache-2.0"
-homepage: "https://github.com/diskuv/dkml-install-api"
-bug-reports: "https://github.com/diskuv/dkml-install-api/issues"
-dev-repo: "git+https://github.com/diskuv/dkml-install-api.git"
+homepage: "https://github.com/diskuv/dkml-component-console"
+bug-reports: "https://github.com/diskuv/dkml-component-console/issues"
+dev-repo: "git+https://github.com/diskuv/dkml-component-console.git"
 name: "dkml-component-xx-console"
 #   Components can be assembled on any "host" build machine defined in
 #   https://github.com/diskuv/dkml-install-api/blob/5cfd7b57c79d990c76a9bdc8f8f0fa9f6fd5346f/runner/src/host_abi.ml
